@@ -42,12 +42,12 @@ Unsicherheit und ethischen Dilemmata.
 
 ## 📚 Inhaltsübersicht
 
-### Kapitel 1: Grundlagen
+### Kapitel 1 und 2: Grundlagen
 - Konstruktion des Sandkastens
 - Spielmechanik und Regeln
 - Auswertungsmethodik (AAR-Framework)
 
-### Kapitel 2: Acht Szenarien
+### Kapitel 3: Acht Szenarien
 1. Nehmen und Halten eines Zwischenziels
 2. Recht, Moral oder Auftrag? (Kriegsvölkerrecht)
 3. Kameraden oder Auftrag? (Verlustverantwortung)
@@ -57,7 +57,7 @@ Unsicherheit und ethischen Dilemmata.
 7. Logistik unter Beobachtung
 8. Befehle aus der Glaskugel (Nebel des Krieges)
 
-### Kapitel 3: Eigene Szenarien erstellen
+### Kapitel 4: Eigene Szenarien erstellen
 - Szenariodesign-Prinzipien
 - Geländeauswahl
 - Befehlsausgaben schreiben
