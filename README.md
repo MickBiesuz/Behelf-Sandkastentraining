@@ -29,7 +29,7 @@ Unsicherheit und ethischen Dilemmas.
 ## 📥 Download
 
 **Aktuellste Version:**
-- [PDF herunterladen](./Behelf_Sandkastentraining.pdf))
+- [PDF herunterladen]./Behelf_Sandkastentraining.pdf))
 
 ---
 
