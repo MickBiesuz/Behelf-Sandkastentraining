@@ -9,15 +9,15 @@
 ## 📖 Über dieses Projekt
 
 Der Behelf Sandkastentraining ist ein vollständiges Ausbildungssystem 
-zur Entwicklung der Entschlussfassung und Einsatzführung bei Zugführern. 
+zur Entwicklung der Entschlussfassung und der Führung im Einsatz von Zugführern. 
 
 In einem physischen Geländemodell (Massstab 1:1000) führen zwei Zugführer 
 ihre Verbände gegeneinander und treffen Entscheidungen unter Zeitdruck, 
-Unsicherheit und ethischen Dilemmata.
+Unsicherheit und ethischen Dilemmas.
 
 ### Was bietet dieser Behelf?
 
-- ✅ **8 realitätsnahe Szenarien** mit ethischen Dilemmata und Friktionen
+- ✅ **8 realitätsnahe Szenarien** mit ethischen Dilemmas und Friktionen
 - ✅ **Vollständige Spielmechanik** für dynamisches Training auf Gegenseitigkeit
 - ✅ **Bauanleitung** für physischen Sandkasten
 - ✅ **Strukturierte Auswertungsmethodik**
@@ -29,7 +29,7 @@ Unsicherheit und ethischen Dilemmata.
 ## 📥 Download
 
 **Aktuellste Version:**
-- [PDF herunterladen (Deutsch)](./PDF/Behelf_Sandkasten_DE.pdf)
+- [PDF herunterladen](./Behelf_Sandkasten.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ Unsicherheit und ethischen Dilemmata.
 ### Kapitel 1 und 2: Grundlagen
 - Konstruktion des Sandkastens
 - Spielmechanik und Regeln
-- Auswertungsmethodik (AAR-Framework)
+- Auswertungsmethodik
 
 ### Kapitel 3: Acht Szenarien
 1. Nehmen und Halten eines Zwischenziels
@@ -79,7 +79,7 @@ Siehe [CONTRIBUTING.md](./CONTRIBUTING.md) für Details.
 
 ## 📜 Lizenz
 
-© 2025 Mick Biesuz
+© 2026 Mick Biesuz
 
 Lizenziert unter [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -95,7 +95,7 @@ Lizenziert unter [Creative Commons Attribution 4.0 International (CC BY 4.0)](ht
 ## 🌍 Verfügbarkeit
 
 - **Digital:** Hier auf Github
-- **Gedruckt:** Amazon
+- **Gedruckt:** [Amazon](https://amzn.eu/d/05IqVKHv)
 
 ---
 
